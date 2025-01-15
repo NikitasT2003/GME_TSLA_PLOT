@@ -28,12 +28,6 @@ This project demonstrates how to fetch, process, and visualize historical stock 
 - `requests` for web scraping
 - `beautifulsoup4` for parsing HTML content
 
-Install the dependencies using:
-```bash
-pip install -r requirements.txt
-```
-
----
 
 ## 🛠️ Functions Explained
 
