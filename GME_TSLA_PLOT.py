@@ -6,7 +6,7 @@ import warnings
 import plotly.io as pio
 import requests
 from bs4 import BeautifulSoup
-# Set Plotly renderer - Use 'vscode' for VSCode, or 'browser' to open in a web browser
+
 pio.renderers.default = 'browser'  # Change to 'browser' if 'vscode' doesn't work
 
 # Ignore all warnings
